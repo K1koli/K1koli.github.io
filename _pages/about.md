@@ -10,29 +10,29 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-你好！我是**侯哲妍**，目前是南方科技大学数据科学与大数据技术专业的本科生。
+Hi! I'm **Zheyan Hou**, an undergraduate student majoring in Data Science and Big Data Technology at Southern University of Science and Technology (SUSTech).
 
-我的研究兴趣包括机器学习、数据分析和计算机视觉。
+My research interests include machine learning, data analysis, and computer vision.
 
-#🔥 News
-- *2024.09*: &nbsp; 开始学习数据科学专业课程
-- *2024.06*: &nbsp; 加入机器学习实验室
+# 🔥 News
+- *2024.09*: &nbsp; Started studying Data Science courses
+- *2024.06*: &nbsp; Joined a machine learning lab
 
 # 📚 Course Projects
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Course Project</div><img src='images/500x300.png' alt="project" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[项目名称](项目链接)
+[Project Name](project-link)
 
-**项目描述**
-- 使用的技术栈
-- 项目功能简述
+**Project Description**
+- Tech stack used
+- Project features
 </div>
 </div>
 
 # 🎖 Honors and Awards
-- *2024.06* 获得校级奖学金
+- *2024.06* University Scholarship
 
 # 📖 Educations
-- *2024.09 - now*, 南方科技大学，数据科学与大数据技术专业，本科生
+- *2024.09 - now*, Southern University of Science and Technology (SUSTech), Data Science and Big Data Technology, Undergraduate
