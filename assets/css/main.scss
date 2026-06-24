@@ -34,6 +34,16 @@
 @import "archive";
 @import "sidebar";
 
+/* Fix for sidebar - add fixed positioning */
+.sidebar {
+  @include breakpoint($large) {
+    height: 100vh;
+    overflow-y: auto;
+    position: fixed;
+    padding-top: 70px;
+  }
+}
+
 @import "vendor/font-awesome/fontawesome";
 @import "vendor/font-awesome/solid";
 @import "vendor/font-awesome/brands";
