@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zheyan Hou"
-description              : "Undergraduate student at Southern University of Science and Technology"
+description              : # "Undergraduate student at Southern University of Science and Technology"
 repository               : "K1koli/K1koli.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -25,7 +25,7 @@ author:
   avatar           : "images/avatar.jpg"
   bio              : "Undergraduate Student"
   location         : "Shenzhen, China"
-  employer         : "Southern University of Science and Technology (SUSTech)"
+  employer         : "SUSTech"
   pubmed           :
   googlescholar    :
   email            : "12313551@mail.sustech.edu.cn"
