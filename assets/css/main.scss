@@ -44,6 +44,14 @@
   }
 }
 
+/* Offset main content for sidebar */
+#main {
+  @include breakpoint($large) {
+    margin-left: 17%;
+    margin-right: auto;
+  }
+}
+
 @import "vendor/font-awesome/fontawesome";
 @import "vendor/font-awesome/solid";
 @import "vendor/font-awesome/brands";
