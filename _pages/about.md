@@ -12,7 +12,7 @@ redirect_from:
 
 # About Me
 
-Hi there, I'm **Zheyan Hou** 👋
+**Hi there, I'm Zheyan Hou** 👋
 
 I am currently an undergraduate student in the Department of Statistics and Data Science at the Southern University of Science and Technology (SUSTech), majoring in Data Science and Big Data Technology, expected to graduate in 2027. I completed my high school education at Jiangxi Sci-Tech University Affiliated High School.
 
