@@ -11,7 +11,7 @@ author_profile: true
 
 # Notes
 
-<p style="color: #3b75d6; font-style: italic; margin-bottom: 30px;">This section mainly documents my theoretical course notes on mathematics, statistics, and machine learning. It is continuously being improved, and I will try to present them in a better format in the future.</p>
+<p style="color: #3b75d6; font-style: italic; margin-bottom: 30px;">This section contains my course notes on mathematics, statistics, and machine learning. I'm continuously refining them and plan to reorganize them for better readability in the future.</p>
 
 <h2>Mathematics</h2>
 <ul>
