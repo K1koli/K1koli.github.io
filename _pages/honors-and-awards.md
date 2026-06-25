@@ -16,6 +16,7 @@ author_profile: true
 <h2>Mathematics</h2>
 <ul>
   <li><strong>Mathematical Analysis</strong> — <a href="{{ base_path }}/files/数学分析note.pdf" target="_blank">PDF</a></li>
+  <li><strong>Linear Algebra</strong> — <a href="{{ base_path }}/files/Linear_algebra_notes.pdf" target="_blank">PDF</a></li>
 </ul>
 
 <h2>Computer Science</h2>
