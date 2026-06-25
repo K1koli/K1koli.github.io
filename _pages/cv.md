@@ -5,11 +5,13 @@ permalink: /cv/
 author_profile: true
 ---
 
+{% include base_path %}
+
 <span class='anchor' id='cv'></span>
 
 <h1>Curriculum Vitae</h1>
 
-<p><a href="files/CV.pdf" target="_blank">Download CV as PDF</a></p>
+<p><a href="{{ base_path }}/files/CV.pdf" target="_blank">Download CV as PDF</a></p>
 
 <h2>Education</h2>
 <ul>
