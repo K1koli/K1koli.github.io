@@ -19,12 +19,12 @@ author_profile: true
   <li><strong>Linear Algebra</strong> — <a href="{{ base_path }}/files/Linear_algebra_notes.pdf" target="_blank">PDF</a></li>
 </ul>
 
-<h2>Computer Science</h2>
+<h2>Statistics</h2>
 <ul>
   <li><em>Coming soon...</em></li>
 </ul>
 
-<h2>Statistics & Machine Learning</h2>
+<h2>Machine Learning</h2>
 <ul>
   <li><em>Coming soon...</em></li>
 </ul>
