@@ -21,5 +21,5 @@ author_profile: true
 
 <h2>Machine Learning</h2>
 <ul>
-  <li><em>Coming soon...</em></li>
+  <li><strong>Deep Learning</strong> — <a href="{{ base_path }}/files/Deep_Learning.pdf" target="_blank">PDF</a></li>
 </ul>
