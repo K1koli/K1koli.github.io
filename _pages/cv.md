@@ -9,7 +9,7 @@ author_profile: true
 
 <span class='anchor' id='cv'></span>
 
-<h1>Curriculum Vitae📄</h1>
+<h1>Curriculum Vitae</h1>
 
 <p><a href="{{ base_path }}/files/CV.pdf" target="_blank">Download CV as PDF</a></p>
 
