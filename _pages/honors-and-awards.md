@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Honors and Awards"
-permalink: /honors-and-awards/
+title: "Notes"
+permalink: /notes/
 author_profile: true
 ---
 
-<span class='anchor' id='honors-and-awards'></span>
+<span class='anchor' id='notes'></span>
 
-# Honors and Awards
+# Notes
 
-- *2024.06* University Scholarship
+This page is under construction. Notes coming soon!

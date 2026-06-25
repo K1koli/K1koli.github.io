@@ -6,8 +6,8 @@ main:
   - title: "Projects"
     url: "/projects/"
 
-  - title: "Honors and Awards"
-    url: "/honors-and-awards/"
+  - title: "Notes"
+    url: "/notes/"
 
   - title: "CV"
     url: "/cv/"
