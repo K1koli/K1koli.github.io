@@ -27,7 +27,7 @@ author_profile: true
   </li>
   <li>
     <strong>2020.09 – 2023.06</strong><br>
-    Jiangxi Sci-Tech University Affiliated High School<br>
+    Jiangxi University of Technology High School<br>
     Science Honors Class
   </li>
 </ul>
@@ -63,6 +63,7 @@ author_profile: true
 <li><strong>Programming:</strong> Python, Java, R</li>
 <li><strong>Machine Learning:</strong> TensorFlow, PyTorch, scikit-learn</li>
 <li><strong>Data Analysis:</strong> Pandas, NumPy, Matplotlib</li>
+<li><strong>Big Data & Tools:</strong> Git, Hadoop, Spark, Docker</li>
 <li><strong>Languages:</strong> Chinese (Native), English (Fluent)</li>
 </ul>
 
