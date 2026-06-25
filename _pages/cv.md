@@ -52,8 +52,6 @@ author_profile: true
   <li><strong>2024</strong> – First-Class Scholarship for Outstanding Students, SUSTech (top 5%)</li>
   <li><strong>2024</strong> – Outstanding Student, SUSTech</li>
   <li><strong>2024</strong> – Second Prize, Welcome Cup Rock Climbing Competition, SUSTech</li>
-  <li><strong>2024</strong> – Outstanding Individual, Winter Alumni Visit Program, SUSTech</li>
-  <li><strong>2024</strong> – Outstanding Team, Winter Alumni Visit Program, SUSTech – Team Leader</li>
   <li><strong>2024</strong> – Model Class with Excellent Academic Atmosphere, SUSTech</li>
   <li><strong>2023</strong> – Outstanding Trainee in Military Training, SUSTech</li>
 </ul>
