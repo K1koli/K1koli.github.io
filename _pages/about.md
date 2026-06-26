@@ -25,4 +25,3 @@ From August to December 2026, I will be a visiting exchange student at the [Coll
 - Data synthesis and evaluation for LLM training in scarce-data scenarios
 - LLM-based agents, especially tool use (Function Calling) and multi-turn reasoning
 - Self-evolution and continual learning for intelligent agents
-- AI for Science — applying LLMs and agent systems to scientific discovery
